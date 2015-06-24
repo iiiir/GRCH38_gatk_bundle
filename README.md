@@ -2,6 +2,7 @@
 liftover version of the gatk resource bundle for the new assembling GRCH38 (primary assembling, no alt contigs or decoy sequences). 
 
 ==DEPENDENCIES==
+
 original resource bundle: 
 ftp://ftp.broadinstitute.org/bundle/2.8/hg19/
 
