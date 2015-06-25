@@ -21,7 +21,7 @@ tabix
 
 ==LIFTOVER BUNDLE==  
 
-https://drive.google.com/drive/folders/0B3NI2BxPvRUwflZqbmtBX0xFWWRMNmh5WHZVTm4zcHZRYXcwOWQ4a05uZlhETW95NHlJczg
+https://drive.google.com/folderview?id=0B3NI2BxPvRUwflZqbmtBX0xFWWRMNmh5WHZVTm4zcHZRYXcwOWQ4a05uZlhETW95NHlJczg&usp=sharing
 
 NOTE: dbSNP has official release for GRCH38:
 ftp://ftp.ncbi.nlm.nih.gov/snp/organisms//human_9606_b144_GRCh38p2/VCF/00-All.vcf.gz
