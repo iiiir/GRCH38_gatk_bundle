@@ -27,8 +27,8 @@ NOTE: dbSNP has official release for GRCH38:
 ftp://ftp.ncbi.nlm.nih.gov/snp/organisms//human_9606_b144_GRCh38p2/VCF/00-All.vcf.gz
 The file will work for GATK pipeline and no post-process neccesary. 
 
-ACKNOWLEDGEMENT
-The idea comes from:
+==ACKNOWLEDGEMENT==    
+The idea comes from:    
 https://wabi-wiki.scilifelab.se/display/SHGATG/gatk+bundle+in+hg38
 The original make script finished but generated unusuable files for me.
 The liftover is then re-done using the two scripts.
