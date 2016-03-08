@@ -1,9 +1,8 @@
 # GRCH38_gatk_bundle
 
-**======================================= Note ==============================================**
-**GATK now holds pre-release of the GRCh38 bundle**    
-http://gatkforums.broadinstitute.org/wdl/discussion/3843/plans-to-update-the-gatk-bundle
-============================================================================================
+```**GATK now holds pre-release of the GRCh38 bundle**    
+http://gatkforums.broadinstitute.org/wdl/discussion/3843/plans-to-update-the-gatk-bundle```
+
 
 liftover version of the gatk resource bundle for the new assembling GRCH38 (primary assembling, no alt contigs or decoy sequences). 
 
